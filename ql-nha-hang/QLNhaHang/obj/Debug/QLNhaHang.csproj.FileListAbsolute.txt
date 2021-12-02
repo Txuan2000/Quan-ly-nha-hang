@@ -1,0 +1,243 @@
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\dung\source\repos\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\dung\source\repos\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BTL135\145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\dung\Desktop\temp\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\Admin\Documents\check\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Inhoadon.resources
+E:\Lap trinh window\BTL135\1454\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Inhoadon.resources
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BTL145\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+C:\Users\dung\Desktop\New folder\New folder\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\New folder (2)\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+C:\Users\Admin\Documents\Winform\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\myDrive\HocTap\c#\BTL\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+F:\Hoc online\LapTrinhWindow\TongKet\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csprojAssemblyReference.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\Lap trinh window\BÀI TẬP LỚN\New folder\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe.config
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.exe
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\QLNhaHang.pdb
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\BouncyCastle.Crypto.dll
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.dll
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\bin\Debug\itextsharp.xml
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.AssemblyReference.cache
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ChangePass.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.ForgetPass.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form1.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Form2.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Login.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Properties.Resources.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.Themnhanvien.resources
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.GenerateResource.cache
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CoreCompileInputs.cache
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.csproj.CopyComplete
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.exe
+E:\myDrive\HocTap\c#\BTLWINFORM-main\NHOM_12_XayDungChuongTrinhQuanLyNhaHang\ql-nha-hang\QLNhaHang\obj\Debug\QLNhaHang.pdb
